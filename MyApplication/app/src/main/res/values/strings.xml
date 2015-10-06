@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RXjava1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_of_posts">ListOfPostsActivity</string>
+    <string name="title_activity_post_detail">PostDetailActivity</string>
+</resources>
